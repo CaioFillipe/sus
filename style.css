@@ -1,0 +1,30 @@
+body{
+    color: black !important;
+    margin: 10%;
+}
+
+
+
+#formulario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 3%;
+    width: auto;
+}
+
+#receita h2{
+    color: red;
+}
+
+#receita {
+    justify-content: center;
+    flex-direction: column;
+    padding: 3%;
+    width: auto;
+    padding: auto;
+}
+
+.sumido {
+    display: none;
+}
